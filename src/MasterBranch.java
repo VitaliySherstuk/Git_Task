@@ -7,4 +7,9 @@ public class MasterBranch {
     {
         System.out.println("Second commit");
     }
+
+    public void displayThirdCommit()
+    {
+        System.out.println("Third commit");
+    }
 }
