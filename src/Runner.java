@@ -9,5 +9,9 @@ public class Runner {
 
         MasterBranch masterBranch = new MasterBranch();
         masterBranch.displaySecondCommit();
+
+        DevelopBranch developBranch = new DevelopBranch();
+        developBranch.displayFirstCommitDevelopBranch();
+        developBranch.displaySecondCommitDevelopBranch();
     }
 }

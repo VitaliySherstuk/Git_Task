@@ -7,4 +7,9 @@ public class DevelopBranch {
     {
         System.out.println("First commit in Develop branch");
     }
+
+    public void displaySecondCommitDevelopBranch()
+    {
+        System.out.println("Second commit in Develop branch");
+    }
 }
