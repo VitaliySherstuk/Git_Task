@@ -12,4 +12,9 @@ public class MasterBranch {
     {
         System.out.println("Third commit");
     }
+
+    public void displayFourthCommitMasterBranch()
+    {
+        System.out.println("Fourth commit in Master branch");
+    }
 }
