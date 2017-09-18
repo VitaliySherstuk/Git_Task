@@ -12,4 +12,10 @@ public class DevelopBranch {
     {
         System.out.println("Second commit in Develop branch");
     }
+
+    public void displayThirdCommitDevelopBranch()
+    {
+        System.out.println("Third commit in Develop branch");
+    }
+
 }
